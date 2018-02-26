@@ -1,5 +1,6 @@
 #!/bin/sh
 
+#counterS
 counter=1
 
 if [ $# -eq 1 ]; then
